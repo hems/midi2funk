@@ -23,7 +23,11 @@ input.ignoreTypes false, false, false
 
 funktions = {}
 
-# Configure a callback.
+# TODO :
+# - Glob all files from "funktions" folder and cache all the requires
+# - Automatically map type / message number to functions using folder structure @
+# "funktions" folder
+
 input.on "message", (deltaTime, message) ->
 
 	type   = message[0]
