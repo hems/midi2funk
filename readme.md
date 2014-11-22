@@ -17,7 +17,7 @@ or
 ````
 
 Thanks to :  
-  [node-midi](https://github.com/justinlatimer/node-midi)  
+  * [node-midi](https://github.com/justinlatimer/node-midi)  
   ~ without you this wouldn't be possible to be done in less than 10 minutes  
 
  * [inquirer](https://www.npmjs.org/package/inquirer)  
