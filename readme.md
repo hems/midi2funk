@@ -44,6 +44,9 @@ $ happy patching
  * [Dave Smith](http://www.davesmithinstruments.com/)  
  ~ For making something so good 30 years ago ( MIDI )
 
+ * [socket.io](http://socket.io/)  
+ ~ You guys have done a great work!
+
 ## unthanks to :  
 
  * [Dave Smith](http://www.davesmithinstruments.com/)  
