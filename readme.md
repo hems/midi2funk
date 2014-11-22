@@ -21,8 +21,8 @@ or
 ## Get in touch!
 
 If you feel interested by this project and want to develop this further or have some
-nice ideas or just want to chat about it or want me to come over and show some stuff
-just let me know. drop me an email ````hems.inlet+gh@gmail.com````
+nice ideas or just want to chat about it or want me to come over and have a geeky session  
+just drop me a line: ````hems.inlet+gh@gmail.com````
 
 ````
 $ happy patching
