@@ -22,3 +22,14 @@ Thanks to :
 
  * [inquirer](https://www.npmjs.org/package/inquirer)  
  ~ that awesome module to do awesome prompts on the command line  
+
+ * [Dave Smith](http://www.davesmithinstruments.com/)
+ ~ For making something so good 30 years ago
+
+Unthanks to :  
+
+ * [Dave Smith](http://www.davesmithinstruments.com/)
+ ~ For doing posh synths and not fucking about doing a new implementation of
+ midi that works in modern days and then convincing everyone to swap and also
+ for not sending me any of those posh synths that i won't probably afford to
+ buy for the next good few years
