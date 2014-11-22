@@ -20,8 +20,11 @@ or
 
 ## Get in touch!
 
-If you feel interested by this project and want to develop this further or have some
-nice ideas or just want to chat about it or want me to come over and have a geeky session  
+ - If you feel interested by this project and want to develop this further
+ - have some nice ideas 
+ - want to chat about it
+ - want me to come over and have a geeky session  
+ 
 just drop me a line: ````hems.inlet+gh@gmail.com````
 
 ````
