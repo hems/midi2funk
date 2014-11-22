@@ -1,5 +1,4 @@
 emit = require '../transports/socket-io'
-emit = emit.sockets.send
 
 module.exports = ( value ) ->
 
