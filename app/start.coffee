@@ -6,6 +6,9 @@ inquirer = require "inquirer"
 
 cc_map   = require './models/cc'
 
+# requiring our default transport, so the socket server gets initiated
+transport = require './transports/socket-io.coffee'
+
 # Set up a new input.
 input = new midi.input()
 

@@ -51,3 +51,6 @@ $ happy patching
  midi that works in modern days and then convincing everyone to swap and also
  for not sending me any of those posh synths that i won't probably afford to
  buy for the next good few years
+
+ * [socket.io](http://socket.io/)  
+ ~ For releasing 1.0 with loads of bugs
