@@ -16,6 +16,8 @@ app.listen 1337
 
 io.on "connection", (socket) ->
 
+  console.log '+ client connected'
+
   socket.emit "hello",
     message: "Hello Earthling"
     data   : any_dummy_date: can_come_here: on
