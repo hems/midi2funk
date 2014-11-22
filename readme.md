@@ -20,9 +20,12 @@ or
 ## how to use it
 
 by default it will create a socket.io server at [localhost:1337](http://localhost:1337)  
+  
 at the moment there is a very simple "cc message 2 function" map model, which
 definitely could be replaced by something more appropriated depending on how
-you prefer to structure your code
+you prefer to structure your code  
+
+a transport function ( default socket.io ) broadcast messages to all clients connected
 
 ## get in touch!
 
