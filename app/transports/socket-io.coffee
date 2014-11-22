@@ -21,4 +21,4 @@ io.on "connection", (socket) ->
     data   : any_dummy_date: can_come_here: on
 
 
-module.exports = ( message ) -> emit.sockets.send message
+module.exports = ( message ) -> io.sockets.send message
