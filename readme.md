@@ -18,20 +18,20 @@ or
 ./node_modules/.bin/coffee app/start.cofee
 ````
 
-## Get in touch!
+## get in touch!
 
  - If you feel interested by this project and want to develop this further
  - have some nice ideas 
  - want to chat about it
  - want me to come over and have a geeky session  
- 
+
 just drop me a line: ````hems.inlet+gh@gmail.com````
 
 ````
 $ happy patching
 ````
 
-## Thanks to :  
+## thanks to :  
  * [coffee-script](http://coffeescript.org/)  
  ~ It gives me nightmares just to think how life could be without you
 
@@ -44,7 +44,7 @@ $ happy patching
  * [Dave Smith](http://www.davesmithinstruments.com/)  
  ~ For making something so good 30 years ago ( MIDI )
 
-## Unthanks to :  
+## unthanks to :  
 
  * [Dave Smith](http://www.davesmithinstruments.com/)  
  ~ For doing posh synths and not fucking about doing a new implementation of
