@@ -1,4 +1,4 @@
-Simple midi to javascript function mapper.
+Simple midi to javascript ( actually [coffee](http://coffeescript.org/) ) function mapper.
 
 ````
 npm install
@@ -27,6 +27,9 @@ $ happy patching
 ````
 
 Thanks to :  
+ * [coffee-script](http://coffeescript.org/)  
+ ~ It gives me nightmares just to think how life could be without you
+
  * [node-midi](https://github.com/justinlatimer/node-midi)  
  ~ without you this wouldn't be possible to be done in less than 10 minutes  
 
