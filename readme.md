@@ -19,13 +19,26 @@ or
 ````
 ## how to use it
 
-by default it will create a socket.io server at [localhost:1337](http://localhost:1337)  
-  
-at the moment there is a very simple "cc message 2 function" map model, which
-definitely could be replaced by something more appropriated depending on how
-you prefer to structure your code  
+Once you run it and choose your midi device it will create a server at [localhost:1337](http://localhost:1337)  
 
-a transport function ( default socket.io ) broadcast messages to all clients connected
+Then add socket.io to your html file ( generally your index file? )
+````
+<script src="http://localhost:1337/socket.io/socket.io.js"></script>
+````
+
+At the moment there is a very simple and just broadcast the deltaTime / midi message via socket.io, in short you can retrieve them with
+````
+socket = io.connect('http://localhost:1337')
+socket.on 'message', ( data ) =>
+
+	message = data.message
+
+	type   = message[0]
+	number = message[1]
+	value  = message[2]
+````
+
+Shold be very easy to change the transport ( socket.io ) to something else
 
 ## get in touch!
 
