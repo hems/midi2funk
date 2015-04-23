@@ -66,16 +66,4 @@ $ happy patching
  * [Dave Smith](http://www.davesmithinstruments.com/)  
  ~ For making something so good 30 years ago ( MIDI )
 
- * [socket.io](http://socket.io/)  
- ~ You guys have done a great work!
-
-## unthanks to :  
-
- * [Dave Smith](http://www.davesmithinstruments.com/)  
- ~ For doing posh synths and not fucking about doing a new implementation of
- midi that works in modern days and then convincing everyone to swap and also
- for not sending me any of those posh synths that i won't probably afford to
- buy for the next good few years
-
- * [socket.io](http://socket.io/)  
- ~ For releasing 1.0 with loads of bugs
+ * [socket.io](http://socket.io/) 
