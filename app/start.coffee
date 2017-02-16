@@ -13,7 +13,7 @@ input = new midi.input()
 # the appropriate type in the function below.
 # Order: (Sysex, Timing, Active Sensing)
 # For example if you want to receive only MIDI Clock beats
-# you should use 
+# you should use
 # input.ignoreTypes(true, false, true)
 input.ignoreTypes false, false, false
 
@@ -28,9 +28,17 @@ console.log ' + Helloooo'
 
 inputs = []
 for index in [0..input.getPortCount()-1]
-	inputs.push
-		name : input.getPortName index
-		value: index
+  try
+    inputs.push
+      name : input.getPortName Number index
+      value: index
+  catch e
+    console.error "error polling port"
+    console.error e
+
+if not inputs.length
+  console.log "no midi interface found"
+  return
 
 # inquirer question
 inquirer.prompt
